@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/Ashwani-52/DSA-Leetcode/tree/master/1929-concatenation-of-array) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Ashwani-52/DSA-Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Ashwani-52/DSA-Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3731-find-missing-elements](https://github.com/Ashwani-52/DSA-Leetcode/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ashwani-52/DSA-Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
 |  |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/Ashwani-52/DSA-Leetcode/tree/master/1288-remove-covered-intervals) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ashwani-52/DSA-Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Ashwani-52/DSA-Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3731-find-missing-elements](https://github.com/Ashwani-52/DSA-Leetcode/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ashwani-52/DSA-Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Tree
 |  |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Ashwani-52/DSA-Leetcode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/Ashwani-52/DSA-Leetcode/tree/master/0217-contains-duplicate) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ashwani-52/DSA-Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3731-find-missing-elements](https://github.com/Ashwani-52/DSA-Leetcode/tree/master/3731-find-missing-elements) |
 ## Counting
 |  |
 | ------- |

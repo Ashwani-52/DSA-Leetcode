@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Ashwani-52/DSA-Leetcode/tree/master/0486-predict-the-winner) |
 | [0643-maximum-average-subarray-i](https://github.com/Ashwani-52/DSA-Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/Ashwani-52/DSA-Leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [0877-stone-game](https://github.com/Ashwani-52/DSA-Leetcode/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/Ashwani-52/DSA-Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1260-shift-2d-grid](https://github.com/Ashwani-52/DSA-Leetcode/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Ashwani-52/DSA-Leetcode/tree/master/1288-remove-covered-intervals) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Ashwani-52/DSA-Leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ashwani-52/DSA-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0486-predict-the-winner](https://github.com/Ashwani-52/DSA-Leetcode/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Ashwani-52/DSA-Leetcode/tree/master/0877-stone-game) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Ashwani-52/DSA-Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Greedy
 |  |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Ashwani-52/DSA-Leetcode/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Ashwani-52/DSA-Leetcode/tree/master/0877-stone-game) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Ashwani-52/DSA-Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Ashwani-52/DSA-Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ashwani-52/DSA-Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -166,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Ashwani-52/DSA-Leetcode/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Ashwani-52/DSA-Leetcode/tree/master/0877-stone-game) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -174,4 +178,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Ashwani-52/DSA-Leetcode/tree/master/0053-maximum-subarray) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Ashwani-52/DSA-Leetcode/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Ashwani-52/DSA-Leetcode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->

@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/Ashwani-52/DSA-Leetcode/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/Ashwani-52/DSA-Leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Ashwani-52/DSA-Leetcode/tree/master/1929-concatenation-of-array) |
+| [2966-divide-array-into-arrays-with-max-difference](https://github.com/Ashwani-52/DSA-Leetcode/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Ashwani-52/DSA-Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Ashwani-52/DSA-Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3731-find-missing-elements](https://github.com/Ashwani-52/DSA-Leetcode/tree/master/3731-find-missing-elements) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Ashwani-52/DSA-Leetcode/tree/master/0217-contains-duplicate) |
 | [0977-squares-of-a-sorted-array](https://github.com/Ashwani-52/DSA-Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1288-remove-covered-intervals](https://github.com/Ashwani-52/DSA-Leetcode/tree/master/1288-remove-covered-intervals) |
+| [2966-divide-array-into-arrays-with-max-difference](https://github.com/Ashwani-52/DSA-Leetcode/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ashwani-52/DSA-Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Ashwani-52/DSA-Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3731-find-missing-elements](https://github.com/Ashwani-52/DSA-Leetcode/tree/master/3731-find-missing-elements) |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Ashwani-52/DSA-Leetcode/tree/master/0011-container-with-most-water) |
+| [2966-divide-array-into-arrays-with-max-difference](https://github.com/Ashwani-52/DSA-Leetcode/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ashwani-52/DSA-Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Ashwani-52/DSA-Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Bit Manipulation

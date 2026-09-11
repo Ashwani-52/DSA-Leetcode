@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Ashwani-52/DSA-Leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Ashwani-52/DSA-Leetcode/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/Ashwani-52/DSA-Leetcode/tree/master/0056-merge-intervals) |
+| [0059-spiral-matrix-ii](https://github.com/Ashwani-52/DSA-Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ashwani-52/DSA-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ashwani-52/DSA-Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Ashwani-52/DSA-Leetcode/tree/master/0189-rotate-array) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/Ashwani-52/DSA-Leetcode/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/Ashwani-52/DSA-Leetcode/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/Ashwani-52/DSA-Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [1260-shift-2d-grid](https://github.com/Ashwani-52/DSA-Leetcode/tree/master/1260-shift-2d-grid) |
 | [1920-build-array-from-permutation](https://github.com/Ashwani-52/DSA-Leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Ashwani-52/DSA-Leetcode/tree/master/1929-concatenation-of-array) |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Ashwani-52/DSA-Leetcode/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/Ashwani-52/DSA-Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [1260-shift-2d-grid](https://github.com/Ashwani-52/DSA-Leetcode/tree/master/1260-shift-2d-grid) |
 | [1672-richest-customer-wealth](https://github.com/Ashwani-52/DSA-Leetcode/tree/master/1672-richest-customer-wealth) |
 ## Two Pointers

@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Ashwani-52/DSA-Leetcode/tree/master/0043-multiply-strings) |
+| [0044-wildcard-matching](https://github.com/Ashwani-52/DSA-Leetcode/tree/master/0044-wildcard-matching) |
 | [0125-valid-palindrome](https://github.com/Ashwani-52/DSA-Leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Ashwani-52/DSA-Leetcode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ashwani-52/DSA-Leetcode/tree/master/0387-first-unique-character-in-a-string) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/Ashwani-52/DSA-Leetcode/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/Ashwani-52/DSA-Leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ashwani-52/DSA-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0486-predict-the-winner](https://github.com/Ashwani-52/DSA-Leetcode/tree/master/0486-predict-the-winner) |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Ashwani-52/DSA-Leetcode/tree/master/0011-container-with-most-water) |
+| [0044-wildcard-matching](https://github.com/Ashwani-52/DSA-Leetcode/tree/master/0044-wildcard-matching) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/Ashwani-52/DSA-Leetcode/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ashwani-52/DSA-Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Ashwani-52/DSA-Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -186,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Ashwani-52/DSA-Leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0044-wildcard-matching](https://github.com/Ashwani-52/DSA-Leetcode/tree/master/0044-wildcard-matching) |
 | [0486-predict-the-winner](https://github.com/Ashwani-52/DSA-Leetcode/tree/master/0486-predict-the-winner) |
 ## Game Theory
 |  |

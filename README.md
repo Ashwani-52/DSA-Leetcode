@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Ashwani-52/DSA-Leetcode/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/Ashwani-52/DSA-Leetcode/tree/master/0054-spiral-matrix) |
 | [1260-shift-2d-grid](https://github.com/Ashwani-52/DSA-Leetcode/tree/master/1260-shift-2d-grid) |
 | [1920-build-array-from-permutation](https://github.com/Ashwani-52/DSA-Leetcode/tree/master/1920-build-array-from-permutation) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Ashwani-52/DSA-Leetcode/tree/master/0043-multiply-strings) |
 | [0125-valid-palindrome](https://github.com/Ashwani-52/DSA-Leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Ashwani-52/DSA-Leetcode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ashwani-52/DSA-Leetcode/tree/master/0387-first-unique-character-in-a-string) |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Ashwani-52/DSA-Leetcode/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/Ashwani-52/DSA-Leetcode/tree/master/0043-multiply-strings) |
 | [0189-rotate-array](https://github.com/Ashwani-52/DSA-Leetcode/tree/master/0189-rotate-array) |
 | [0486-predict-the-winner](https://github.com/Ashwani-52/DSA-Leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Ashwani-52/DSA-Leetcode/tree/master/0877-stone-game) |

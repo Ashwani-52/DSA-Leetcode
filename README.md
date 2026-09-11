@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Ashwani-52/DSA-Leetcode/tree/master/0029-divide-two-integers) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Ashwani-52/DSA-Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Ashwani-52/DSA-Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Graph Theory
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Ashwani-52/DSA-Leetcode/tree/master/0029-divide-two-integers) |
 | [0189-rotate-array](https://github.com/Ashwani-52/DSA-Leetcode/tree/master/0189-rotate-array) |
 | [0486-predict-the-winner](https://github.com/Ashwani-52/DSA-Leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Ashwani-52/DSA-Leetcode/tree/master/0877-stone-game) |

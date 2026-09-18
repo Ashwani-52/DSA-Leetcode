@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Ashwani-52/DSA-Leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Ashwani-52/DSA-Leetcode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ashwani-52/DSA-Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0796-rotate-string](https://github.com/Ashwani-52/DSA-Leetcode/tree/master/0796-rotate-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Ashwani-52/DSA-Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ashwani-52/DSA-Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Binary Search
@@ -233,4 +234,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Ashwani-52/DSA-Leetcode/tree/master/0078-subsets) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/Ashwani-52/DSA-Leetcode/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
